@@ -19,4 +19,6 @@ Finally, it is important to remember that when people's access to water is at st
 
 Email: dvdhartsman@gmail.com
 
-Github: https://github.com/dvdhartsman/Phase_3_Project/blob/main/Final_Notebook.ipynb
+[Jupyter Notebook](https://github.com/dvdhartsman/Phase_3_Project/blob/main/Final_Notebook.ipynb)
+
+[Presentation](https://github.com/dvdhartsman/Phase_3_Project/blob/main/Tanzanian%20Water%20Pumps.pdf)
