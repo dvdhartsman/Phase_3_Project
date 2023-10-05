@@ -6,7 +6,7 @@ In this project, I was challenged to develop predictive models capable of determ
 ### Data Understanding
 I gained access to data from the Tanzanian Ministry of Water and a business named Taarifa. The data contained 59400 rows of data with 40 feature columns and 1 target column. There were both numeric and categorical columns in the data, and some of the apparently numeric columns also represented categorical information. Furthermore, several of the columns contained redundant information from other columns. In those cases, I choose the columns with more granular data that contained more useable details for my models to utilize in their construction. There were also several columns that required binning of values because the number of unique items within the column were voluminous, and would both provide superfluous specificity and also cost computational power. After I selected the feature columns I found to be most relevant for model construction, I began record data from baseline models. I also built iterative sklearn pipelines that allowed for quick and easy modification of my models' hyperparameters.
 
-<img src="./Data/first_four_models.jpg" alt="First Four Models" width="500">
+<img src="./Data/first_four_models.jpg" alt="First Four Models" width="1000">
 ### Evaluation
 I transformed the data into a new dataframe containing over 960 features. I then looked at correlations of features to the target classes, various performance metrics, and utilized as much data as I could. This was a slow, iterative process, wherein I attempted to adjust model hyper-parameters as well as feature selections and interactions.
 ![Heatmap of the Top Ten Correlations by Magnitude](./Data/heatmap.jpg)
