@@ -17,7 +17,9 @@ I would advise giving extra consideration to older pumps, and also for condition
 Finally, it is important to remember that when people's access to water is at stake, we should utilize any predictive advantage at our disposal. The model that I have constructed can help you predict malfunctions and maintain water pumps, thereby providing access to water for Tanzania's citizens, people who are in need.
 ![Water Well](./Data/water_well.jpg)
 
-Email: dvdhartsman@gmail.com
+By: David Hartsman
+
+dvdhartsman@gmail.com
 
 [Jupyter Notebook](https://github.com/dvdhartsman/Phase_3_Project/blob/main/Final_Notebook.ipynb)
 
