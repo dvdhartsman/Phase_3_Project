@@ -18,4 +18,5 @@ Finally, it is important to remember that when people's access to water is at st
 ![Water Well](./Data/water_well.jpg)
 
 Email: dvdhartsman@gmail.com
+
 Github: https://github.com/dvdhartsman/Phase_3_Project/blob/main/Final_Notebook.ipynb
