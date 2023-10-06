@@ -10,11 +10,11 @@ I gained access to data from the Tanzanian Ministry of Water and a business name
 I transformed the data into a new dataframe containing over 960 features. I then looked at correlations of features to the target classes, various performance metrics, and utilized as much data as I could. This was a slow, iterative process, wherein I attempted to adjust model hyper-parameters as well as feature selections and interactions.
 ![Heatmap of the Top Ten Correlations by Magnitude](./Data/heatmap.jpg)
 ### Conclusion
-The best performing model predicted unseen data accurately at a rate of roughly 76%. It was extremely difficult to affect any kind of positive change on the performance of the Logistic Regression models. That being said, the best model suprassed baseline performance by over 20 basis points.  
+The best performing model predicted unseen data accurately at a rate of roughly 76%. That being said, certain models identified specific classes at different rates, so further investigation into a priority class may be required. In general, it was extremely difficult to affect any kind of positive change on the overall accuracy of the Logistic Regression models. Nonetheless, the model with the best overall accuracy suprassed baseline model accuracy by over 20 basis points.  
 
-I would advise giving extra consideration to older pumps, and also for conditions where the "quantity" is dry. These two factors are relatively well tracked, and provide strong predictive guidance.
+Some factors to consider are giving extra attention to older pumps, and also accounting for conditions where the water "quantity" is dry. If water sources dry up, there may be little to no value in replacing or repairing pumps in those locations. Still, these two factors are relatively well tracked, and provide strong predictive guidance.
 
-Finally, it is important to remember that when people's access to water is at stake, we should utilize any predictive advantage at our disposal. The model that I have constructed can help you predict malfunctions and maintain water pumps, thereby providing access to water for Tanzania's citizens, people who are in need.
+Finally, it is important to keep in mind that when a community's access to water is at stake, we should utilize any predictive advantage at our disposal. The models that I have constructed can help predict malfunctions and maintain water pumps, thereby providing more secure access to water for Tanzania's citizens, people who are in need.
 ![Water Well](./Data/water_well.jpg)
 
 By: David Hartsman
